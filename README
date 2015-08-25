@@ -1,2 +1,0 @@
-Project demonstrating that "xcodebuild test" starts the simulator launch timeout at the
-beginning of the build.
