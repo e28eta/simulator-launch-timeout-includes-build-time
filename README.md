@@ -2,6 +2,8 @@
 
 This is a sample project demonstrating an Xcode bug.
 
+Related Radar link: https://openradar.appspot.com/22413115
+
 ### Given
 
 1. An iOS application
